@@ -1,0 +1,13 @@
+streamlit
+plotly
+pandas
+numpy
+scipy
+yfinance
+scikit-learn
+matplotlib
+seaborn
+prophet
+supabase
+pandas-market-calendars
+altair
